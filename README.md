@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @aathithaathi
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning kotlin
+- 👋 Hi, I’m Aathith
+- 👀 I'm a app developer, web developer, web automation developer.
 - 📫 mail at aathithaathi06@gmail.com
 
 <!---
