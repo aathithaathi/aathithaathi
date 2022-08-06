@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aathith
 - 👀 I'm a app developer, web developer, web automation developer.
-- 📫 mail at aathithaathi06@gmail.com
+- 📫 mail to aathithaathi06@gmail.com
 
 <!---
 aathithaathi/aathithaathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
