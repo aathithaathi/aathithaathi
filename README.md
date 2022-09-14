@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aathith
-- 👀 I'm a app developer, web developer, web automation developer.
+- 👀 I'm a web developer, app developer, web automation developer.
 - 📫 mail to aathithaathi06@gmail.com
 
 <!---
