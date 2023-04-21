@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Aathith
+## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aathith
+
 - 👀 I'm a web developer, app developer, web automation developer.
 - 📫 mail to aathithaathi06@gmail.com
 - mobile : +91-7010303366
