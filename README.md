@@ -1,4 +1,5 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aathith
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
 - 👀 I'm a web developer, app developer, web automation developer.
 - 📫 mail to aathithaathi06@gmail.com
