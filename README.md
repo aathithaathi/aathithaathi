@@ -2,9 +2,9 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ## 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I'm a Computer Science, Data Engineer, Automation Engineer and Full Stack Developer who has spent 3+ years building scalable distributed systems and optimisation engines.\
-- 👀 I'm a web developer, app developer, web automation developer.
-- 📫 mail to aathithaathi06@gmail.com
+💡 &nbsp;I'm  Web Developer, Data Engineer and Automation Test Engineer who has spent 3+ years building scalable distributed systems ,handiling bilions of transaction data for normalization and automate system admin, domain admin dashboards
+
+✉️ &nbsp;You can email me at aathithaathi06@gmail.com
 - mobile : +91-7010303366
 
 <!---
